@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Jaguir"><img src="https://api.daily.dev/devcards/7050dfc479944b51be1731588e3c73c3.png?r=tmn" width="400" alt="Jaguir's Dev Card"/></a>
+<a href="https://app.daily.dev/Jaguir"><img src="https://api.daily.dev/devcards/7050dfc479944b51be1731588e3c73c3.png?r=tmn" width="300" alt="Jaguir's Dev Card"/></a>
 
 <!--
 **jaguire/jaguire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
